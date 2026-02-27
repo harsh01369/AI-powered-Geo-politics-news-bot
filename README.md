@@ -7,6 +7,10 @@
 
 An end-to-end AI automation system that fetches, analyzes, verifies, and distributes geopolitical news. It pulls content from multiple sources, processes 12+ languages, scores relevance, verifies facts, and posts approved stories to social media.
 
+![GeoThreadBot](images/hero.png)
+
+![Architecture](images/architecture.png)
+
 ## How It Works
 
 The system runs a seven-stage pipeline. Raw content enters at one end. Verified, summarized posts come out the other.
